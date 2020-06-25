@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepBe", "DeepBe.csproj", "{9FFA244B-2242-429F-9D1F-FB5A3B47B225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FFA244B-2242-429F-9D1F-FB5A3B47B225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFA244B-2242-429F-9D1F-FB5A3B47B225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFA244B-2242-429F-9D1F-FB5A3B47B225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFA244B-2242-429F-9D1F-FB5A3B47B225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2947F570-52F9-4D20-81E8-82E583A64DE1}
+	EndGlobalSection
+EndGlobal
