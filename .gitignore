@@ -1,0 +1,3 @@
+bin/Debug/*.sav
+bin/Release/*.*
+obj/Release/*.*
