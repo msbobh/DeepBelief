@@ -1,5 +1,5 @@
-bin/Debug/*.sav
+
 bin/Release/*.*
 obj/Release/*.*
 .vs/DeepBe/v16/.suo
-bin/Debug/DeepBeliefModel.sav
+bin/Debug/*.sav
