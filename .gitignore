@@ -3,3 +3,4 @@ bin/Release/*.*
 obj/Release/*.*
 .vs/DeepBe/v16/.suo
 bin/Debug/*.sav
+bin/Debug/DeepBeliefModel.sav
