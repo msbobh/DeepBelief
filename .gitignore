@@ -4,3 +4,16 @@ obj/Release/*.*
 .vs/DeepBe/v16/*.suo
 bin/Debug/*.sav
 bin/Debug/DeepBeliefModel.sav
+.vs/DeepBe/v16/.suo
+bin/Debug/DeepBe.exe
+bin/Debug/DeepBe.pdb
+bin/Debug/XORLabels.sav
+obj/Debug/DeepBe.csproj.CoreCompileInputs.cache
+obj/Debug/DeepBe.csproj.FileListAbsolute.txt
+obj/Debug/DeepBe.csprojAssemblyReference.cache
+obj/Debug/DeepBe.exe
+obj/Debug/DeepBe.pdb
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/AssemblyReference.cache
+obj/Debug/DesignTimeResolveAssemblyReferences.cache
+obj/Debug/build.force

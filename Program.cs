@@ -92,7 +92,7 @@ namespace NNAccord
                 for (int i = 0; i <= input1.Length - 1; i++)
                 {
                     Console.WriteLine
-                        ("Predicited {0}, Actual {1}", DBNPredictions[i], output1[i][0]);
+                        ("Predicted {0}, Actual {1}", DBNPredictions[i], output1[i][0]);
                 }
         }
     }
